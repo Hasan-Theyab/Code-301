@@ -71,6 +71,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 
+
 # Overview
 
-This project displays images and information of horned animals.
+This project displays images and information of horned animals
+
+
+
