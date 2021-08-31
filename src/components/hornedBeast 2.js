@@ -13,7 +13,7 @@ class hornedBeast2 extends React.Component{
       </div>
 
       
-
+  
       </>
     )
   }
