@@ -4,11 +4,13 @@ class Footer extends React.Component{
   render(){
     return(
       <>
-      <footer>&copy; Hasan Theyab</footer>
+        <footer>&copy; Hasan Theyab</footer>
     
       </>
-    )
+    );
   }
 }
 
 export default Footer;
+
+

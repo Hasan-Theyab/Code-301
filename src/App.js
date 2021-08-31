@@ -8,12 +8,13 @@ class App extends React.Component{
   render(){
     return(
       <>
-      <Header></Header>
-      <Main></Main>
-      <Footer></Footer>
+        <Header></Header>
+        <Main></Main>
+        <Footer></Footer>
       </>
-    )
+    );
   }
 }
 
 export default App;
+
