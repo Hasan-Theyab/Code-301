@@ -77,33 +77,34 @@ Number and name of feature: 1.Display images
 
 Estimate of time needed to complete: 3 hours
 
-Start time: 4:15 PM
+Start time: 1:00 PM
 
-Finish time: 8:00 PM
+Finish time: 4:00 PM
 
-Actual time needed to complete: 3 hours
+Actual time needed to complete: 2 hour
 
 
 
-Number and name of feature: 2.: Allow users to vote for their favorite beast
+
+Number and name of feature: 2.Allow users to vote for their favorite beast
 
 Estimate of time needed to complete: 3 hours
 
-Start time: 8:00 PM
+Start time:  12 :00 PM
 
-Finish time: 12:00 AM
+Finish time: 2 :00 PM
 
 Actual time needed to complete: 1 hour
 
 
 
 
-Number and name of feature: 3.Bootstrap
+Number and name of feature: 3. Bootstrap
 
-Estimate of time needed to complete: 3 hours
+Estimate of time needed to complete:3 hours
 
-Start time: 12:00 AM
+Start time:  1 :00 PM
 
-Finish time: 4:00 AM
+Finish time: 1:30 PM
 
 Actual time needed to complete: half an hour

@@ -1,22 +1,29 @@
 import React from 'react';
-import hornedBeast from './components/hornedBeast';
-import hornedBeast2 from './components/hornedBeast 2';
-import hornedBeast3 from './components/hornedBeast 3';
+import Hornedbeast from './Hornedbeast';
+import data from './hornedbeast.json';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import Row from 'react-bootstrap/Row';
 
-class Main extends React.Component{
-  render(){
-    return(
-      <>
-      <main>
-          <hornedBeast></hornedBeast>
-          <hornedBeast2></hornedBeast2>
-          <hornedBeast3></hornedBeast3>
-      </main>
-      
 
-      </>
-    )
-  }
+class Main extends React.Component {
+    render() {
+        return (
+            <>
+            <Row xs={1} md={3} className="g-4">
+                {data.map((item) => {
+                    return (
+                        <Hornedbeast
+                            title={item.title}
+                            imgUrl={item.image_url}
+                            description={item.description}
+                            keyword={item.keyword}
+                        />
+                    )
+
+                })
+            }
+            </Row>
+            </>
+        )
+    }
 }
-
-export default Main;
